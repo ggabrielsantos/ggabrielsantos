@@ -9,7 +9,7 @@
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santosbinho2005@gmail.com)
 
 
-![ggabrielsantos GitHub stats](https://github-readme-stats.vercel.app/api?username=ggabrielsantos&show_icons=ggabrielsantos&theme=dracula)
+
 
 ### 2/4 de Desenvolvimento de Sistemas no Senai Joinville SC 💻
 ## 2/4 of Systems Development at Senai Joinville SC 💻
