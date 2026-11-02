@@ -62,7 +62,7 @@ Tecnologias com as quais tenho familiaridade e que estou estudando atualmente:
 Estou aberto a conhecer pessoas da área de tecnologia, compartilhar conhecimentos e encontrar novas oportunidades de aprendizado e desenvolvimento.
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/SEU-USUARIO-LINKEDIN">
+  <a href="https://www.linkedin.com/in/gabriel-dos-santos-de-oliveira-42242b278-LINKEDIN">
     <img src="https://img.shields.io/badge/Conecte--se_no_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
