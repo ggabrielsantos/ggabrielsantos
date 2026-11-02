@@ -46,10 +46,11 @@ Tecnologias com as quais tenho familiaridade e que estou estudando atualmente:
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ggabrielsantos&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggabrielsantos&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-</p>
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ggabrielsantos&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" />
+
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggabrielsantos&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+</div>
 
 ---
 
