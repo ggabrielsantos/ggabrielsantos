@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/gabriel-dos-santos-de-oliveira-42242b278" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:SEU-EMAIL@gmail.com">
+  <a href="mailto:gabigel690@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
