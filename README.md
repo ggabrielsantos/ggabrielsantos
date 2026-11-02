@@ -4,7 +4,7 @@
 ###
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ggabriel.santosss/?next=%2F)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-dos-santos-42242b278/)
+[![Linkedin]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-dos-santos-42242b278/](https://www.linkedin.com/in/gabriel-dos-santos-de-oliveira-42242b278/))
 
 ## Systems Development at Senai 💻
 ## 1/8 Software engineering at Catolica 💻
